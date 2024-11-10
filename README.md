@@ -6,8 +6,7 @@
 
 ## Project Overview
 **Film-Verse** is designed for movie enthusiasts seeking a tailored and effortless way to discover new films. Whether you’re a casual viewer or a devoted cinephile, this movie recommender app offers personalized recommendations, making it quick and enjoyable to find films that match your taste.
-![Film-Verse Screenshot](![image](https://github.com/user-attachments/assets/ce834243-bf60-4877-af59-a33b8c6604b9)
-)
+(![image](https://github.com/user-attachments/assets/ce834243-bf60-4877-af59-a33b8c6604b9)
 
 ---
 
