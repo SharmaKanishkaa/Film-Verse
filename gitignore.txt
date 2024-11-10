@@ -1,0 +1,2 @@
+mynewenv
+.DS_Store
