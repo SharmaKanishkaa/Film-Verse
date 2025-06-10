@@ -61,11 +61,22 @@
 Replace the `api_key` value in your code with your TMDb API key.
 
 ---
+## Dashboards 
+![Dashboard](./d1.png)
+![Dashboard](./d2.png)
+![Dashboard](./d5.png)
+![Dashboard](./d6.png)
+![Dashboard](./table view.png)
+
+
+
+---
 
 ## Acknowledgements
 Special thanks to the tools and communities that made this project possible:
 - **Streamlit**: For the user-friendly framework for building the app interface.
 - **pandas**: For efficient data manipulation.
+- **Power BI**: For exploratory data analysis and visualization.
 - **scikit-learn**: For machine learning tools like `cosine_similarity` used in recommendations.
 - **TMDb API**: For access to up-to-date movie information and posters.
 - **Open-source Contributors**: For resources, tutorials, and ongoing support from the developer community.
