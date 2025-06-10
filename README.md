@@ -65,8 +65,7 @@ Replace the `api_key` value in your code with your TMDb API key.
 ![Dashboard](./d1.png)
 ![Dashboard](./d2.png)
 ![Dashboard](./d5.png)
-![Dashboard](./d6.png)
-![Dashboard](./table view.png)
+![Dashboard](./table_view.png)
 
 
 
